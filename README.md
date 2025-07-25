@@ -2,12 +2,13 @@
 An example of a dashboard that offers a means of tracking lab samples over time. 
 
 ### Technologies
-
-React
-TypeScript
-Prettier/ESLint
-Shadcn content library
-Tailwind
+<ul>
+<li>React</li>
+<li>TypeScript</li>
+<li>Prettier/ESLint</li>
+<li>Shadcn content library</li>
+<li>Tailwind</li>
+</ul>
 
 
 ### Methodology

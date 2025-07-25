@@ -38,3 +38,10 @@ I managed to get a Date Picker component standing, but didn't have enough time t
 
 I wasn't able to set up the Jest Suite tests. I wanted to do a basic components checking test to see if some of my components could be scanned by Jest and then I was going to have it run a screenshot test that would have dumped the screenshot in a nearby file for examination. 
 
+
+### How to start locally
+
+<ul>
+  <li>You will need to navigate into the bi-dashboard file and do an npm install. This is not necessary to do from the base project level because it only stores Prettier/ESLint info. This is because if a server side were run on the project, the universal packages for format would be useful</li>
+  <li>Once the installation is complete, do npm start</li>
+</ul>

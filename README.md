@@ -42,6 +42,9 @@ I wasn't able to set up the Jest Suite tests. I wanted to do a basic components 
 ### How to start locally
 
 <ul>
-  <li>You will need to navigate into the bi-dashboard file and do an npm install. This is not necessary to do from the base project level because it only stores Prettier/ESLint info. This is because if a server side were run on the project, the universal packages for format would be useful</li>
-  <li>Once the installation is complete, do npm start</li>
+  <li>Clone the project</li>
+  <li>Ensure you have NPM version 11.4.2 or higher</li>
+  <li>Navigate inside of the project folder and then into the bi-dashboard (lowercase) folder</li>
+  <li>Run the 'npm install' command. We can ignore the higher level package.json because it contains Prettier/ESLint</li>
+  <li>run NPM Start</li>
 </ul>

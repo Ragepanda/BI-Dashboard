@@ -46,5 +46,5 @@ I wasn't able to set up the Jest Suite tests. I wanted to do a basic components 
   <li>Ensure you have NPM version 11.4.2 or higher</li>
   <li>Navigate inside of the project folder and then into the bi-dashboard (lowercase) folder</li>
   <li>Run the 'npm install' command. We can ignore the higher level package.json because it contains Prettier/ESLint</li>
-  <li>run NPM Start</li>
+  <li>Run the 'npm start' command.</li>
 </ul>
